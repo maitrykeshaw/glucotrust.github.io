@@ -1,1 +1,1 @@
-# glucotrust.github.io
+# https://get-glucotrust.vercel.app

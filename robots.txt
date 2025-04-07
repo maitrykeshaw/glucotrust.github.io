@@ -17,4 +17,4 @@ Allow: /
 User-agent: Storebot-Google
 Allow: /
 
-Sitemap: https://get-livpure.vercel.app/sitemap.xml
+Sitemap: https://get-glucotrust.vercel.app/sitemap.xml
