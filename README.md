@@ -1,1 +1,1 @@
-# https://get-glucotrust.vercel.app
+# https://get-glucotrust.vercel.app/
