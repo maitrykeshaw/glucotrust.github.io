@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"GlucoTrust™ (Official) Get 50% Off + 03 Free Bonuses",
+  "short_name":"GlucoTrust™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"GlucoTrust is a 100% natural formula that does not use any artificial or synthetic flavors to help you maintain normal blood sugar levels.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
